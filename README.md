@@ -1,2 +1,2 @@
 # ERA5_climate
-Scripts used in download, manipulating, and analyzing climate data for ERA5 precipitation, temperature, and evaporation datasets
+This repository contains jupyter notebook files that can download and manipulte ERA5 data for use in analysis. For best viewing you should download Jupyter Notebooks. 
