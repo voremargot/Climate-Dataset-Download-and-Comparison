@@ -3,7 +3,11 @@ This repository contains predominatly Jupyter notebook files that can be used to
 (2) PCIC- https://data.pacificclimate.org/portal/gridded_observations/map/
 (3) DayMet- https://daymet.ornl.gov/getdata
 
-##ERA5-HRES
+## ERA5-HRES
+ERA5-HRES is a gridded 
 
+## PCIC {PNWNAmet}
+Extent: Northwest North America
+Resolution: 1/16<sup>o<sup> {~6km}
 
 
