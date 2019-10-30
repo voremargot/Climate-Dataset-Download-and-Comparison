@@ -6,7 +6,7 @@ This repository contains predominatly Jupyter notebook files that can be used to
 ## ERA5-HRES
 -Extent: Global
 -Resolution: 0.25<sup>o</sup> {~28km}
--Variables: over 200 variables (see full list [here](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
+-Variables: over 200 variables (see full list [here](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview))
 -Timespan:1979-present
 
 ## PCIC {PNWNAmet}
@@ -14,5 +14,10 @@ This repository contains predominatly Jupyter notebook files that can be used to
 -Resolution: 1/16<sup>o</sup> {~6km}
 -Variables: Minimum Temperature, Maximum Temperature, Precipitation
 -Timespan: 1945-2012
+
+## DayMet
+-Extent: North America, Hawaii, Puerto Rico
+-Resolution: 1km x 1km
+-Variables: Day lenght, Precipitation, Shortwave radiation, snow-water equivalent, Max air temperature, Min air temperature, Water Vapor Pressure
 
 
