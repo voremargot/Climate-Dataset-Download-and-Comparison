@@ -19,5 +19,7 @@ This repository contains predominatly Jupyter notebook files that can be used to
 -Extent: North America, Hawaii, Puerto Rico
 -Resolution: 1km x 1km
 -Variables: Day lenght, Precipitation, Shortwave radiation, snow-water equivalent, Max air temperature, Min air temperature, Water Vapor Pressure
+-Timespan: 1980-present
+
 
 
