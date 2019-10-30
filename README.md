@@ -8,6 +8,7 @@ This repository contains predominatly Jupyter notebook files that can be used to
 - Resolution: 0.25<sup>o</sup> {~28km}
 - Variables: over 200 variables (see full list [here](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview))
 - Timespan:1979-present
+- Note: I have only worked with the Precipitation, temperature and evaporation datasets for this dataset. Tip of how to work specifically with these variables will be given
 
 ## PCIC {PNWNAmet}
 - Extent: Northwest North America
