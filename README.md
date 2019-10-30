@@ -3,6 +3,9 @@ This repository contains predominatly Jupyter notebook files that can be used to
 2. PCIC- https://data.pacificclimate.org/portal/gridded_observations/map/
 3. DayMet- https://daymet.ornl.gov/getdata
 
+To use this repository it is best to work in the following order:
+Downloading Data Sets --> Formatting Data into Rasters --> Climate Data Comparisons --> Trend Analysis
+
 ## ERA5-HRES
 - Extent: Global
 - Resolution: 0.25<sup>o</sup> {~28km}
@@ -22,8 +25,7 @@ This repository contains predominatly Jupyter notebook files that can be used to
 - Variables: Day lenght, Precipitation, Shortwave radiation, snow-water equivalent, Max air temperature, Min air temperature, Water Vapor Pressure
 - Timespan: 1980-present
 
-To use this repository it is best to work in the following order:
-Downloading Data Sets --> Formatting Data into Rasters --> Climate Data Comparisons --> Trend Analysis
+
 
 
 
